@@ -21,7 +21,7 @@
 
 - 🛠️ Independent **Full-Stack Developer** building consumer-facing web products end-to-end
 - 🏟️ Currently building **[SportyXi](https://sportyxi.com)** — a live sports streaming platform (HLS.js, real-time UX, mobile app distribution)
-- 🩺 Currently building **Shustota (সুস্থতা)** — a Bengali-language Healthcare AI platform
+- 🩺 Currently building **Shustota** — a Bengali-language Healthcare AI platform
 - 🎨 Strong focus on **frontend engineering, UI/UX polish & motion design**
 - 🌱 Constantly exploring new tools — from AI-powered IDEs to systems-level programming
 - 📍 Based in **Dhaka, Bangladesh** 🇧🇩
@@ -36,7 +36,7 @@
 | | |
 |---|---|
 | 🏟️ **[SportyXi](https://sportyxi.com)** | Live sports streaming platform with HLS.js video delivery, sport-category detection, watermarked player, and native mobile app distribution |
-| 🩺 **Shustota (সুস্থতা)** | Bengali-language Healthcare AI platform with hospital-grade UI, ECG/heartbeat motion design, and real-time animated stats |
+| 🩺 **Shustota** | Bengali-language Healthcare AI platform with hospital-grade UI, ECG/heartbeat motion design, and real-time animated stats |
 
 </div>
 
@@ -113,7 +113,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafin010)
-[![Website](https://img.shields.io/badge/SportyXi-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sportyxi.com)
+[![Website]([https://img.shields.io/badge/SportyXi-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white](https://ibb.co.com/zWKtpCsb))](https://sportyxi.com)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1280px-Instagram_logo_2022.svg.png?_=20220518162235)](https://www.instagram.com/ia_rafin/)
+[![Linkedin](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAbFBMVEUAfrv///8AcbUAfLrE2uopgbzI2enR4u5GjsI0g73n8fcAdbcAbbP0+PvM3+291uiQuNfh6/QAZ7GHtNaawNx6rdIOgr210eVancowjMJXlsYAarJupc6dvdpqnsquzON6ps+GrdKmxd9Il8fHDaMoAAAFJ0lEQVR4nO2da2+rOBBADQPLwyHgAgkhaWhz//9/XBNutk0Bm9RGMOycD1UrgeqjscHPgTl3MmCIgayzYPefBeCWgeJLJo1Qu0ibKH3IiJovXRpTeC06mSRzly6LOW6W3GUC3A2mAyBoZZISfSVr4WUiZQTfQGBkaLiQMsUGWkyLW0iZwyYCI0NzcFj8tnQpbPEWs+NGapmsZ0eWb+JZ1sJzVm2kychGU7HTdmRO7LB0GeyxIRWCWB3QdrSBbeDpJzXA96Mo8tvfli6NEcBZeM3SII7joMnrCLMOZ9dCOF/s8xCrDvD6ljjPBJmPsk8HkAunj1cj7G4Dy36GpUNc0dkAFMMujhNjs5F1bESltQlxtRtej7tgm3EDf6jtf9FgqmhcUcm6ZoOoovGxxv8gxTODyEuNiyMqNKE5q1tMS4ZGhmtdnAbLwJtXepmgRtJo3EIvg+Z55h71Ms4HEpnd/v8m84lFxttSZG56l+SCREbXM2sRWB7NcNLLeFhWEeCs62c6zg3NkMZttE0Gy8NMhibUyeyx1DIJ17xpEjydZhka5RSA7GZimkZ/7EobCwyWl0wHRKqKdjsvXb7X4OH4aDPdLV26V+HXMZsU0zzTX3g92N9MGhdR4/8Pfiri/nPsE88k0xMA1x8LNMF7iNTlvgp4zb1HeERTol046wCIwvpS5mVVhz72JdpuvfkvSxeFIAiCIF4CuOvu7rgu54hfZOCe+Z/y/ejtJd7xllUnd4ez5+fuwkIkybd+rPwj3hens/0RRht/BQNTAOo7ngsIOzYwuniMl05nu/UN/GLvKSh6NnC6Ka5Pv8+AAA/VM1niYrf5+OpVjX96I2cIA8X13+bZAIZHsD90fIs2s8lA2NuQN4hX2QvOTDIAH6rLnm55txaceWSATQtLR2prJ9gsMvwwZX3xi8DSDso5ZPhhahV7IOzYzCDzuoutPYf2ZeAXLjI2Ns4sWpdxYcrmgj6Bhd6adZndlC0sQ1g4tWhbJv984Zn8RGx+BNu2TPObBtNhvnxqW2asjzwF4zwflmWMCEJDmzXJyNCY2axKRhiGZlUyzmVLMp6/IRnHLD/OymTKLcl4Rr2Alck4m5L5Y1LP5pZJYhHHL/Q9+xN1K5EJmvf843K9Xj6z29RBzt5ku858MmlZH/gDCD8mjnNMEsvMJRNU0fcleADuf+gP60hMNoXNJFP0NxMAD6dMQJnMBcwjUw4uV0A0wcbkWNgsMuVIK+YT7jXJ+TOHzG20PK5+hsAk59cMMsF4bxG49plmcsx1BhnVoIRXukkCk72U9mXUaS51u8KN3pr2ZdQtmOeaVrMqGc1RSGCYZBrNS2+nCeyaZLQnIXRnQ9ckI3RnVPkFj0ygmzCGAx4Zff6AMx4Z/SrLm/q1uSYZfW9Ek4NgTTI3rYzm2bwimQln1DQHqpHJpCRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMiRDMpuXOcYq0n7muTBVXC/0R8bcRv0fDWSg/YbuOEOpx5R3TMhVpvmPv3dhT2ma+1i6Y/rtKDNSEsR6wfKhwgkcGKJP+2iAE6u2I1Mxk2Pc64LnzEJ6upXgHllskpViVbzFzCiRw5qAg8OM0gWsCbeQMgJnPvGfABdSJjHP6bgGeJlIGWSfXx8BQI5wGbJv4o3Bs+Qu44gavQ2v24O3rYwmrwUCILpPg9xl2nRDS5fHhMcnDDsZ81SoiwJZZ/EvUKh6G76gZSoAAAAASUVORK5CYII=)](https://bd.linkedin.com/in/ifat-ahmed-rafin-056741360)
 
 </div>
 
