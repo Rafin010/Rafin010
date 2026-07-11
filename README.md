@@ -108,17 +108,10 @@ Bengali-language Healthcare AI platform with a hospital-grade interface, ECG/hea
 
 ![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=45&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=20&fontColor=fff&fontAlignY=65&fontAlign=5&animation=twinkling)
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafin010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin010&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-
-<img src="https://streak-stats.demolab.com/?user=Rafin010&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-</div>
 
 <details>
-<summary align="center"><b>🏆 GitHub Trophies</b></summary>
+<summary align="center"><b>🏆 ~GitHub Trophies~ </b></summary>
 <br/>
 <div align="center">
 
