@@ -16,6 +16,15 @@
 
 <br/>
 
+ Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmedDabish/AhmedDabish/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
 ![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=45&section=header&text=%F0%9F%9A%80%20About%20Me&fontSize=20&fontColor=fff&fontAlignY=65&fontAlign=5&animation=twinkling)
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif">
