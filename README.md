@@ -1,5 +1,5 @@
 <div align="center">
-<!-- হেল্ল -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Ifat%20Ahmed%20Rafin&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Builder%20of%20Products&descAlignY=58&descSize=18)
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"/>
