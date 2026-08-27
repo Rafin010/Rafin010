@@ -51,7 +51,7 @@ Live sports streaming platform with real-time HLS.js video delivery, automatic s
 </tr>
 <tr>
 <td width="110" align="center">
-<img src="https://i.ibb.co/BKvcqjKR/shustota-icon.png" height="64" alt="Shustota logo"/>
+<img src="https://ibb.co.com/zWQMxJQs" height="64" alt="Oxpecker logo"/>
 </td>
 <td>
 
