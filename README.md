@@ -55,7 +55,7 @@ Live sports streaming platform with real-time HLS.js video delivery, automatic s
 </td>
 <td>
 
-**🩺 Shustota**
+**🩺 Oxpecker**
 <br/>
 Bengali-language Healthcare AI platform with a hospital-grade interface, ECG/heartbeat-inspired motion design, and real-time animated health statistics.
 <br/>
